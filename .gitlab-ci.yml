@@ -1,0 +1,15 @@
+image: asciidoctor/docker-asciidoctor:latest
+pdf:
+  script:
+     - asciidoctor-pdf -a pdf-stylesdir=pdfstyle -n -a pdf-style=rescue rule.adoc
+  artifacts:
+    paths:
+     - rule.pdf
+
+html:
+  script:
+     - asciidoctor rule.adoc
+  artifacts:
+    paths:
+     - rule.html
+     - media/*

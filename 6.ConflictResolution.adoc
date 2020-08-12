@@ -1,0 +1,22 @@
+== Conflict Resolution
+
+=== Referee and Referee Assistant
+
+. All decisions during game play are made by the referee or the referee assistant, who are in charge of the field, persons and objects surrounding them.
+
+. During game play, the decisions made by the referee and/or the referee assistant are final.
+
+. At conclusion of game play, the referee will ask the captain to sign the score sheet. Captains will be given a maximum of 1 minute to review the score sheet and sign it. By signing the score sheet, the captain accepts the final score on behalf of the entire team.  In case of further clarification, the team captain should write their comments on the score sheet and sign it.
+
+=== Rule Clarification
+
+. If any rule clarification is needed, please contact the RoboCupJunior Rescue Maze Entry Working Group.
+
+. If necessary even during a tournament, a rule clarification may be made by members of the RoboCupJunior Rescue Maze Entry Working Group and Organizing Committee (OC).
+
+=== Special Circumstances
+
+. If special circumstances, such as unforeseen problems or capabilities of a robot occur, rules may be modified by the RoboCupJunior Rescue Maze Entry Working Group Chair in conjunction with available Technical Committee and Organizing Committee members, even during a tournament.
+
+. If any of the team captains/mentors do not show up to the team meetings to discuss the problems and the resulting rule modifications described at 5.3.1, it will be considered as an agreement.
+

@@ -1,0 +1,40 @@
+== Open Technical Evaluation
+
+=== Description
+
+. Your technical innovation will be evaluated during a dedicated time frame. All teams need to prepare for an open display during this time frame.
+
+. Judges will circulate and interact with the teams. The Open Technical Evaluation is intended to be a casual conversation with a "question and answer" atmosphere.
+
+. The main objective of the Open Technical Evaluation is to emphasize the ingenuity of innovation. Being innovative may mean technical advances as compared to the existing knowledge, or an out-of-the-ordinary, simple but clever, solution to existing tasks.
+
+=== Evaluation Aspects
+
+. A standardized rubric system will be used focusing on:
+.. creativity
+.. cleverness
+.. simplicity
+.. functionality
+
+. Your “work" can include (but is not limited to) one of the following aspects:
+.. creation of your own sensor instead of a pre-built sensor
+.. creation of a "sensor module" which is comprised of various electronics resulting in a self-contained module to provide a certain functionality
+.. creation of a mechanical invention which is functional, but out of the ordinary
+.. creation of a new software algorithm to a solution
+
+. Teams must provide documents that explain their work. Each invention must be supported by concise but clear documentation. The documents must show precise steps towards the creation of the invention.
+
+. Documents must include one poster and one engineering journal (see the Engineering Journal Template on official RCJ website for more details). Teams should be prepared to explain their work.
+
+. Engineering Journals should demonstrate your best practices in the development process.
+
+. The poster should include name of team, country, league, robot description, robot capabilities, controller and programming language used, sensors included, method of construction, time used for development, cost of materials and awards won by the team in its country, etc.
+
+. Guidelines may be provided at the official RCJ website under Rescue rules (Engineering Journal Template).
+
+=== Sharing
+
+. Teams are encouraged to review other's posters and presentations.
+
+. Teams awarded with certificates are required to post their documents and presentation online when asked by the OC/TC.
+

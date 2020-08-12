@@ -1,0 +1,71 @@
+== Code of Conduct
+
+=== Spirit
+
+. It is expected that all participants (students and mentors alike) will respect the aims and ideals of RoboCupJunior as set out in our mission statement.
+
+. The volunteers, referees and officials will act within the spirit of the event to ensure the competition is competitive, fair and, most importantly, fun.
+
+. *It is not whether you win or lose, but how much you learn that counts!*
+
+=== Fair Play
+
+. Robots that cause deliberate or repeated damage to the field will be disqualified.
+
+. Humans that cause deliberate interference with robots or damage to the field will be disqualified.
+
+. It is expected that the aim of all teams is to participate fairly.
+
+=== Behavior
+
+. Each team is responsible for verifying the latest version of the rules on the RoboCupJunior Official website prior to the competition.
+
+. Participants should be mindful of other people and their robots when moving around the tournament venue.
+
+. Participants are not allowed to enter setup areas of other leagues or other teams, unless explicitly invited to do so by team members.
+
+. Teams will be responsible for checking updated information (schedules, meetings, announcements, etc.) during the event. Updated information will be provided on notice boards in the venue and (if possible) on the local competition website and/or the RoboCup or RoboCupJunior websites.
+
+. Participants who misbehave may be asked to leave the venue and risk being disqualified from the tournament.
+
+. These rules will be enforced at the discretion of the referees, officials, tournament organizers and local law enforcement authorities.
+
+. Teams are expected to be present at the venue early on the setup day as important activities will occur.  These activities include, but are not limited to: registration, participation raffle, interviews, captains and mentor’s meetings.
+
+=== Mentors
+
+. Adults (mentors, teachers, parents, chaperones, translators and other adult team members) are not allowed in the student work area.
+
+. Sufficient seating will be supplied for mentors to remain in a supervisory capacity close to the student work area.
+
+. Mentors are not permitted to build, repair or be involved in programming of their team’s robots both before and during the competition.
+
+. Mentor interference with robots or referee decisions will result in a warning in the first instance. If this recurs, the team will risk being disqualified.
+
+. Robots have to be mainly students' own work. Any robot that appears to be identical to another robot may be prompted for re-inspection.
+
+=== Ethnics and Integrity
+
+. Fraud and misconduct are not condoned. Fraudulent acts may include the following:
+
+.. Mentors working on the software or hardware of students’ robot(s) during the competition.
+.. More experienced/advanced groups of students may provide advice but should not do the work for other groups. Otherwise, the team risks being disqualified.
+
+. RoboCupJunior reserves the right to revoke an award if fraudulent behavior can be proven after the award ceremony takes place.
+
+. If it is clear that a mentor intentionally violates the code of conduct, and repeatedly modifies and works on the students' robot(s) during the competition, the mentor will be banned from future participation in RoboCupJunior competitions.
+
+. Teams that violate the code of conduct can be disqualified from the tournament. It is also possible to disqualify a single team member from further participation in the tournament.
+
+. In less severe cases of violations of the code of conduct, a team will be given a warning. In severe or repeated cases of violations of the code of conduct, a team can be disqualified immediately without a warning.
+
+=== Sharing
+
+. The spirit of world RoboCup competitions is that any technological and curricular developments should be shared with other participants after the tournament.
+
+. Any developments may be published on the RoboCupJunior website after the event.
+
+. Participants are strongly encouraged to ask questions to their fellow competitors to foster a culture of curiosity and exploration in the fields of science and technology.
+
+. This furthers the mission of RoboCupJunior as an educational initiative.
+
