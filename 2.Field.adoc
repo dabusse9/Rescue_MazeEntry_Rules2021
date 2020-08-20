@@ -13,7 +13,7 @@ and walls within the field.
 
 === Floor
 
-. Floors may be either smooth or textured (like linoleum or carpet) and may have steps of up to 3 mm in height between the tiles. There may be holes in the floor (approximately 5 mm in diameter), for fastening walls.
+. Floors may be either smooth or textured (like linoleum or carpet) and may have deviations of up to 3 mm in height between the tiles. There may be holes in the floor (approximately 5 mm in diameter), for fastening walls.
 
 . Black tiles:
 .. Black tiles in the field represent holes, which the robot must avoid.
@@ -86,13 +86,13 @@ image::media/maze/victim_maze_entry.jpeg[]
 
 . A robot can only carry a maximum number of 12 rescue kits.
 
-. Each team is responsible for their own rescue kit system, including bringing the rescue kits to the competition. The team captain is responsible for loading the rescue kits onto their robot and collecting it from the field with the referee’s/judge’s authorization after the end of the run.
+. Each team is responsible for their own rescue kit system, including bringing the rescue kits to the competition. The team captain is responsible for loading the rescue kits onto their robot and collecting it from the field with the referee’s authorization after the end of the run.
 
 . Deployment of the rescue kit must be very clear to the referee.
 
 === Environmental Conditions
 
-. The environmental conditions at a tournament will be different from the conditions at home practice fields. Teams must come prepared to adjust their robots to the conditions at the venue.
+. The environmental conditions at a tournament may be different from the conditions at home practice fields. Teams must come prepared to adjust their robots to the conditions at the venue.
 
 . Lighting and magnetic conditions may vary in the rescue field.
 

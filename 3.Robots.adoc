@@ -65,7 +65,10 @@ disabled. Non-conforming robots may be immediately disqualified from the tournam
 
 . All teams have to submit their source code prior to the competition. The source code will not be shared with other teams without the team’s permission.
 
-. All teams must submit their engineering journal prior to the competition. The journals will not be shared with other teams without the team’s permission. However, it is highly recommended that teams publicly share their engineering journal. With the teams that indicate that their engineering journals could be shared publicly during the registration process, the journal alongside their poster presentation will be shared through the RoboCupJunior Forum so that other teams could learn from them.
+. All teams must submit their engineering journal prior to the competition. The journals will not be shared with other teams without the team’s permission.
+
+NOTE:  However, it is highly recommended that teams publicly share their engineering journal. With the teams that indicate that their engineering journals could be shared publicly during the registration process, the journal alongside their poster presentation will be shared through the RoboCupJunior Forum so that other teams could learn from them.
+
 
 === Violations
 

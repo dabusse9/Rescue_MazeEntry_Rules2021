@@ -42,7 +42,7 @@
 
 . Robots have to be mainly student's own work. Any robot that appears to be identical to another robot may be prompted for re-inspection.
 
-=== Ethnics and Integrity
+=== Ethics and Integrity
 
 . Fraud and misconduct are not condoned. Fraudulent acts may include the following:
 
@@ -51,11 +51,11 @@
 
 . RoboCupJunior reserves the right to revoke an award if fraudulent behavior can be proven after the award ceremony takes place.
 
-. If it is evident that a mentor intentionally violates the code of conduct, and repeatedly modifies and works on the students' robot(s) during the competition, the mentor will be banned from future participation in RoboCupJunior competitions.
+. If it is evident that a mentor intentionally violates the code of conduct, and repeatedly modifies and works on the student's robot(s) during the competition, the mentor will be banned from future participation in RoboCupJunior competitions.
 
 . Teams that violate the code of conduct can be disqualified from the tournament. It is also possible to disqualify a single team member from further participation in the tournament.
 
-. In less severe cases of violations of the code of conduct, a team will be given a warning. In severe or repeated cases of violations of the code of conduct, a team can be disqualified immediately without a warning.
+. In less severe cases of violations of the code of conduct, a team will be given a warning. In severe or repeated cases of violations of the code of conduct, a team can be disqualified immediately without warning.
 
 === Sharing
 
