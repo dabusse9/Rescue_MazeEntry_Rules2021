@@ -34,26 +34,24 @@
 
 === Mentors
 
-. Adults (mentors, teachers, parents, chaperones, translators and other adult team members) are not allowed in the student work area.
+. Non-team members (mentors, teachers, parents and other family, chaperones, translators and other adult team members) are not allowed in the student work area.
 
-. Sufficient seating will be supplied for mentors to remain in a supervisory capacity close to the student work area.
+. Mentors are not permitted to be involved in building, repairing, or  programming of their team’s robots both before and during the competition.
 
-. Mentors are not permitted to build, repair or be involved in programming of their team’s robots both before and during the competition.
+. Mentor interference with robots or referee decisions will result in a warning in the first instance. If this behavior recurs, the team could face a possible elimination from the tournament.
 
-. Mentor interference with robots or referee decisions will result in a warning in the first instance. If this recurs, the team will risk being disqualified.
-
-. Robots have to be mainly students' own work. Any robot that appears to be identical to another robot may be prompted for re-inspection.
+. Robots have to be mainly student's own work. Any robot that appears to be identical to another robot may be prompted for re-inspection.
 
 === Ethnics and Integrity
 
 . Fraud and misconduct are not condoned. Fraudulent acts may include the following:
 
-.. Mentors working on the software or hardware of students’ robot(s) during the competition.
+.. Mentors working on the software or hardware of student's robot(s) during the competition.
 .. More experienced/advanced groups of students may provide advice but should not do the work for other groups. Otherwise, the team risks being disqualified.
 
 . RoboCupJunior reserves the right to revoke an award if fraudulent behavior can be proven after the award ceremony takes place.
 
-. If it is clear that a mentor intentionally violates the code of conduct, and repeatedly modifies and works on the students' robot(s) during the competition, the mentor will be banned from future participation in RoboCupJunior competitions.
+. If it is evident that a mentor intentionally violates the code of conduct, and repeatedly modifies and works on the students' robot(s) during the competition, the mentor will be banned from future participation in RoboCupJunior competitions.
 
 . Teams that violate the code of conduct can be disqualified from the tournament. It is also possible to disqualify a single team member from further participation in the tournament.
 
@@ -61,11 +59,10 @@
 
 === Sharing
 
-. The spirit of world RoboCup competitions is that any technological and curricular developments should be shared with other participants after the tournament.
+. The spirit of world RoboCup competitions is that any technological and curricular developments should be shared with other participants after the tournament. This furthers the mission of RoboCupJunior as an educational initiative.
 
 . Any developments may be published on the RoboCupJunior website after the event.
 
 . Participants are strongly encouraged to ask questions to their fellow competitors to foster a culture of curiosity and exploration in the fields of science and technology.
 
-. This furthers the mission of RoboCupJunior as an educational initiative.
 

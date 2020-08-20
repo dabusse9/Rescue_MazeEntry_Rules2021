@@ -10,31 +10,34 @@
 
 . A robot must not damage any part of the field in any way.
 
-. Robots should include a stop/pause button so they may be easily stopped/paused by the team captain to avert any potentially damaging or illegal robot actions.
-
 === Construction
 
 . The height of a robot must not exceed 30 cm.
 
-. Robots may not have any sensor or devices that enables it to 'see' over the walls.
+. Robots may not have any sensors or devices that enables it to 'see' over the walls.
 
-. Any robot kit or building blocks, either available on the market or built from raw hardware, may be used as long as the design and construction are primarily and substantially the original work of the students (see section 2.5. below).
+. Any robot kit or building blocks, either available on the market or built from raw hardware, may be used as long as the design and construction are primarily and substantially the original work of the students (see section 3.5. below).
 
-. Teams are not permitted to use any commercially produced robot kits or sensors components that are specifically marketed to complete any major task of RoboCupJunior Rescue. Robots that do not comply will face immediate disqualification from the tournament. If there is any doubt, teams should consult the Technical Committee (TC) prior to the competition.
+. Teams are not permitted to use any commercially produced robot kits or sensors components that are specifically designed or marketed to complete any single major task of RoboCupJunior Rescue. Robots that do not comply will face immediate disqualification from the tournament. If there is any doubt, teams should consult the Technical Committee (TC) prior to the competition.
 
-. For the safety of participants and spectators, only lasers of class 1 and 2 are allowed. This will be checked during inspection. Teams using lasers must be able to show the sensor’s data/information sheet.
+. For the safety of participants and spectators, only lasers of class 1 and 2 are allowed. This will be checked during inspection. Teams using lasers must have the datasheet of the laser, and also must  submit them prior to the competition as well as be able to show them during the competition.
 
-. Bluetooth Class 2, 3 and ZigBee communications are the only wireless communication types allowed in RoboCupJunior. Robots that have other types of wireless communications will need to be removed or disabled to prevent possible interference with other leagues competing in RoboCup. If the robot has equipment for other forms of wireless communication, the team must prove that they have been disabled. Robots that do not comply may face immediate disqualification from the tournament.
+. Wireless communication must be used correctly as described on the https://junior.robocup.org/robocupjunior-general-rules/[RoboCupJunior General Rules]. Robots performing other types of wireless communication need to be deleted or disabled. If the robot  has other forms of wireless communication equipment, the team needs to prove that they are
+disabled. Non-conforming robots may be immediately disqualified from the tournament.
 
 . Robots may incur damage by falling off the field, making contact with another robot, or making contact with field elements.  The organizing committee cannot anticipate all potential situations where damage to the robot may occur. Teams should ensure that all active elements on a robot are properly protected with resistant materials. For example, electrical circuits must be protected from all human contact and direct contact with other robots and field elements.
 
-. When batteries are transported or moved, it is recommended that safety bags be used. Reasonable efforts should be made to ensure that robots avoid short circuits and chemical or air leaks.
+. When batteries are transported or moved, it is strongly recommended that safety bags be used. Reasonable efforts should be made to ensure that robots avoid short circuits and chemical or air leaks.
+
+. Robots must be equipped with a handle which is to be used to pick them up during the scoring run.
+
+. Robots must be equipped with a single binary switch or button(s) or any kind, clearly visible to the referee, specifically for restarting the robot when a lack of progress occurs.
 
 === Team
 
 . Each team must have only one robot in the field.
 
-. Each team must have between 2 and 4 members.
+. Each team must comply with the https://junior.robocup.org/robocupjunior-general-rules/[RoboCupJunior General Rules] regarding the number of members and each member’s age.
 
 . A student can be registered on only one team.
 
@@ -42,11 +45,9 @@
 
 . A team is only allowed to participate in one league: Rescue Line or Rescue Line Entry or Rescue Maze or Rescue Maze Entry or Rescue Simulation.
 
-. All team members must be the correct age as stated on the RCJ website: http://junior.robocup.org/robocupjunior-general-rules/.
+. Mentors/parents are not allowed to be with the students during the competition. The students will have to self-govern themselves (without mentor's supervision or assistance) during the long stretch of hours at the competition.
 
 . A participant may only participate twice on a Entry league level in a regional RCJ qualification final (e.g. German Open, Portuguese Open, etc.)
-
-. Mentors/parents are not allowed to be with the students during the competition. The students will have to self-govern themselves (without mentor's supervision or assistance) during the long stretch of hours at the competition.
 
 === Inspection
 
@@ -60,9 +61,9 @@
 
 . Students will be asked about their preparation efforts and may be requested to answer surveys and participate in video-taped interviews for research purposes.
 
-. All teams must complete a web form prior to the competition to allow judges to better prepare for the interviews.  Instructions on how to submit the form will be provided to the teams prior to the competition.
+. All teams must complete a web form prior to the competition to allow referees to better prepare for the interviews. Instructions on how to submit the form will be provided to the teams prior to the competition.
 
-. All teams must submit their source code prior to the competition. The source code will not be shared with other teams without the team’s permission.
+. All teams have to submit their source code prior to the competition. The source code will not be shared with other teams without the team’s permission.
 
 . All teams must submit their engineering journal prior to the competition. The journals will not be shared with other teams without the team’s permission. However, it is highly recommended that teams publicly share their engineering journal. With the teams that indicate that their engineering journals could be shared publicly during the registration process, the journal alongside their poster presentation will be shared through the RoboCupJunior Forum so that other teams could learn from them.
 
@@ -74,6 +75,6 @@
 
 . If a robot fails to meet all specifications (even with modifications), it will be disqualified from that round (but not from the tournament).
 
-. No mentor assistance is allowed during the competition. (See 6. Code of Conduct.)
+. No mentor assistance is allowed during the competition. (See <<Code of Conduct>>)
 
 . Any violations of the rules may be penalized by disqualification from the tournament or the round or may result in a loss of points at the discretion of the referees, officials, organizing committee or general chairs.
