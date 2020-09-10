@@ -2,7 +2,7 @@
 
 === Spirit
 
-. It is expected that all participants (students and mentors alike) will respect the aims and ideals of RoboCupJunior as set out in our mission statement.
+. It is expected that all participants (students and mentors alike) respect the aims and ideals of RoboCupJunior as set out in our mission statement.
 
 . The volunteers, referees and officials will act within the spirit of the event to ensure the competition is competitive, fair and, most importantly, fun.
 
@@ -24,11 +24,11 @@
 
 . Participants are not allowed to enter setup areas of other leagues or other teams, unless explicitly invited to do so by team members.
 
-. Teams will be responsible for checking updated information (schedules, meetings, announcements, etc.) during the event. Updated information will be provided on notice boards in the venue and (if possible) on the local competition website and/or the RoboCup or RoboCupJunior websites.
+. Teams will be responsible for checking updated information (schedules, meetings, announcements, etc.) during the event. Updated information will be provided on notice boards in the venue, on the local competition website, and/or the RoboCup or RoboCupJunior websites if possible.
 
-. Participants who misbehave may be asked to leave the venue and risk being disqualified from the tournament.
+. Participants and their companions who misbehave may be asked to leave the venue and risk being disqualified from the tournament.
 
-. These rules will be enforced at the discretion of the referees, officials, tournament organizers and local law enforcement authorities.
+. These rules will be enforced equally to all participants at the discretion of the referees, officials, tournament organizers and local law enforcement authorities.
 
 . Teams are expected to be present at the venue early on the setup day as important activities will occur.  These activities include, but are not limited to: registration, participation raffle, interviews, captains and mentor’s meetings.
 
@@ -36,7 +36,7 @@
 
 . Non-team members (mentors, teachers, parents and other family, chaperones, translators and other adult team members) are not allowed in the student work area.
 
-. Mentors are not permitted to be involved in building, repairing, or  programming of their team’s robots both before and during the competition.
+. Mentors are not permitted to be involved in building, repairing, or  programming their team’s robots both before and during the competition.
 
 . Mentor interference with robots or referee decisions will result in a warning in the first instance. If this behavior recurs, the team could face a possible elimination from the tournament.
 

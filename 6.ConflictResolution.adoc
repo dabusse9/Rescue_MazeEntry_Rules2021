@@ -18,5 +18,5 @@
 
 . If special circumstances, such as unforeseen problems or capabilities of a robot occur, rules may be modified by the RoboCupJunior Rescue Maze Entry Working Group Chair in conjunction with available Technical Committee and Organizing Committee members, even during a tournament.
 
-. If any of the team captains/mentors do not show up to the team meetings to discuss the problems and the resulting rule modifications described at 5.3.1, it will be considered as an agreement.
+. If any of the team captains/mentors do not show up to the team meetings to discuss problems and the resulting rule modifications described at 6.3.1, it will be understood that they agreed and were aware of the changes.
 

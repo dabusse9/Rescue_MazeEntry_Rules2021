@@ -10,9 +10,9 @@
 
 . Teams should designate one of their members as “captain” and another one as “co-captain”. Only these two team members will be allowed access to the competition fields, unless otherwise directed by a referee. Only the captain will be allowed to interact with the robot during a scoring run.
 
-. The captain can move the robot only when they are told to do so by the referee.
+. The captain can move the robot only when they are told to do so by a referee.
 
-. Other team members (and any spectators) within the vicinity of the rescue field have to stand at least 150 cm away from the field while a robot is active, unless otherwise directed by the referee.
+. Other team members (and any spectators) within the vicinity of the competition field have to stand at least 150 cm away from the field while a robot is active, unless otherwise directed by a referee.
 
 . No one is allowed to touch the fields intentionally during a scoring run.
 
@@ -20,7 +20,7 @@
 
 . A run begins at the scheduled starting time whether or not the team is present or ready. Start times will be posted around the venue.
 
-. Once the scoring run has begun, the robot is not permitted to leave the competition area for any reason. Each run lasts a maximum of 8 minutes.
+. Once the run has begun, the robot is not permitted to leave the competition area for any reason. Each run lasts a maximum of 8 minutes.
 
 . Calibration is defined as the taking of sensor readings and modifying a robot’s program to accommodate such sensor readings. Teams may calibrate their robot in as many locations as desired on the field, but the clock will continue to run. Robots are not permitted to move on their own while calibrating.
 
@@ -28,7 +28,7 @@
 
 . Before a scoring run begins, the referee will roll a standard 6-sided dice to determine the location of the black and silver tiles. The position of the black tiles will not be revealed to the team until they are ready to start a scoring run (see 4.3.7). Referees will ensure the combination of black tile placements in a field layout is 'solvable' before a robot begins a scoring run.
 
-. Before a scoring run begins the judge can change any walls of the field, (see 1.3.6).
+. Before a scoring run begins the referee can change any walls of the field, (see 2.3.6).
 
 . Once the robot is started, a referee will place the black and silver tiles.
 
@@ -38,18 +38,31 @@
 
 . Modifying the robot during a scoring run is prohibited, which includes remounting parts that have fallen off.
 
-. Any parts that the robot loses intentionally or unintentionally will be left in the field until the run is over. Team members and judges are not allowed to remove parts from the field during a scoring run.
+. Any parts that the robot loses intentionally or unintentionally will be left in the field until the run is over. Team members and referees are not allowed to move or remove parts from the field during a scoring run.
 
 . Teams are not allowed to give their robot any advance information about the field. A robot is supposed to recognize the field elements by itself.
 
 . A “visited tile” means that more than half of the robot is inside the tile when looking from above.
+
+=== Lack of Progress
+
+. A Lack of Progress occurs when:
+.. the team captain declares a Lack of Progress.
+.. a robot visited the black tile. See definition of visited tile on rule 4.4.4.
+.. a robot damages the field.
+.. a team member touches the field or their robot without permission from a referee.
+
+. In the event of a lack of progress, the robot must return to the last visited checkpoint (or the start tile if never reached a checkpoint). The robot can be installed in any direction. For the definition of the visited tile (see 4.4.4).
+
+. After a lack of progress, the team must reset the robot by using a switch/button(s) located in a clearly visible location by the referee (see 3.2.10).
+image::media/maze/restart_actions.jpg[float="left"]
 
 === Scoring
 
 . A robot can carry out one or both of the following actions to successfully identify a victim:
 
 .. stop for 5 seconds and blink a visual indicator on and off for the full 5 seconds. The victim tile must be equal to the current visited tile at the same time.
-.. Stop for 5 seconds and deploy a rescue kit (see 4.5.3). The victim tile must be equal to the current visited tile at the same time.
+.. Stop for 5 seconds and deploy a rescue kit (see 4.6.3). The victim tile must be equal to the current visited tile at the same time.
 
 . 10 points are rewarded for each successful Victim Identification in the field:
 
@@ -59,7 +72,7 @@
 
 . Points will be awarded for victim identification and rescue kit deployment.
 
-. Reliability Bonus = the number of ‘successful victim identification’ x 10 + the number of ‘successful rescue kit deployment’ x 10, minus the number of ‘Lack of Progress’ x 10. However, Reliability Bonus score can only be reduced to the minimum of 0 points.
+. Reliability Bonus = the number of ‘successful victim identification’ × 10 + the number of ‘successful rescue kit deployment’ × 10, minus the number of ‘Lack of Progress’ × 10. However, Reliability Bonus score can only be reduced to the minimum of 0 points.
 
 . Successful Speed Bump Crossing. For each tile with speed bumps passed, a robot is awarded 5 points.
 
@@ -70,7 +83,7 @@
 . Successful Checkpoint Negotiation.
 .. A robot is awarded 10 points for each visited checkpoint. Refer to 4.4.4 for definition of visited tile.
 .. A robot is awarded 10 points for each visited checkpoint reached in the first attempt navigating there from the last checkpoint before it.
-.. After three (3) Lack of progress the robot is allowed to be placed on the next checkpoint. The robot is not awarded  points for checkpoints reached that way.
+.. After three (3) Lack of Progress the robot is allowed to be placed on the next checkpoint. The robot is not awarded  points for checkpoints reached that way.
 
 . Successful Exit Bonus. A robot is awarded 10 points for each victim successfully identified (see 4.5.1).
 The “exit bonus” condition is satisfied when the robot returns to the starting tile, stays there for at least 10 seconds to complete the scoring run.
@@ -78,21 +91,6 @@ The “exit bonus” condition is satisfied when the robot returns to the starti
 . Ties at the end. Ties in scoring will be resolved based on the time each robot took to complete the run.
 
 . No duplicate rewards. For example, if a robot successfully crosses a tile with speed bumps multiple times, only one successful speed bump crossing will be rewarded per tile. The same applies to all other scoring rules.
-
-
-=== Lack of progress
-
-. A Lack of Progress occurs when:
-.. the team captain declares a Lack of Progress.
-.. a robot fails to retreat from a “visited” black tile. For a successful retreat, the robot needs to back up without turning inside the black tile (it has to move straight backwards inside of a black tile). See definition of visited tile on rule 3.4.4.
-.. a robot damages the field.
-.. a team member touches the field or their robot without permission from a referee.
-
-. In the event of a lack of progress, the robot must return to the last visited checkpoint (or the start tile if never reached a checkpoint). The robot can be installed in any direction. For the definition of the visited tile (see 4.4.4).
-
-. After a Lack of Progress, the team may reset the power supply (turn the robot off and on) and subsequently restart the program. The team is not allowed to change the program, give any information about the field to the robot, or repair the robot. Teams must notify the judge prior to their run what procedure will be performed when a lack of progress occurs; teams must stick to this method regardless of the situation.
-
-image::media/maze/restart_actions.jpg[float="left"]
 
 === End of Play
 

@@ -18,17 +18,16 @@ and walls within the field.
 . Black tiles:
 .. Black tiles in the field represent holes, which the robot must avoid.
 .. Black tiles will be placed randomly at the start of each game.
-.. Black tiles may not be completely fixed to the floor.
+.. Black tiles may or may not be completely fixed to the floor.
 
 . Silver tiles:
 .. Silver tiles in the field represent checkpoints.
 .. Silver tiles will be placed randomly at the start of each game.
-.. Silver tiles may not be completely fixed to the floor.
+.. Silver tiles may or may not be completely fixed to the floor.
 
 === Path
 
-. Walls lead to the entrance/exit. Walls that lead to the entrance/exit are called “linear walls.” The walls that do NOT lead to the entrance/exit are called “floating walls”.
-Floating walls do not exist in the maze.
+. Walls lead to the entrance/exit. Walls that lead to the entrance/exit are called "linear walls". The walls that do NOT lead to the entrance/exit are called "floating walls". Floating walls do not exist in the maze.
 
 . Black tiles will affect the determination of wall type (linear or floating), since they can be considered as virtual walls.
 +

@@ -43,7 +43,7 @@ disabled. Non-conforming robots may be immediately disqualified from the tournam
 
 . Each team member will need to explain their work and should have a specific technical role.
 
-. A team is only allowed to participate in one league: Rescue Line or Rescue Line Entry or Rescue Maze or Rescue Maze Entry or Rescue Simulation.
+. A team is only allowed to participate in one league: Rescue Line, Rescue Line Entry, Rescue Maze, Rescue Maze Entry, Rescue Simulation.
 
 . Mentors/parents are not allowed to be with the students during the competition. The students will have to self-govern themselves (without mentor's supervision or assistance) during the long stretch of hours at the competition.
 

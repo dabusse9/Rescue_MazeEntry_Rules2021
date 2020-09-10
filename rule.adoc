@@ -32,8 +32,8 @@ endif::[]
 |Germany
 
 |
-|Person 3
-|Region 3
+|Joel Dierkes
+|Germany
 
 |
 |Person 4
@@ -50,38 +50,6 @@ endif::[]
 |
 |Person 7
 |Region 7
-
-
-|===
-
-[cols="2,4,2,5,2", options="header"]
-|===
-3+^|RoboCupJunior General Chairs 2020
-2+^|Trustees representing RoboCupJunior
-
-|Chair
-|Person 8
-|Region 8
-|Person 9
-|Region 9
-
-|
-|Person 10
-|Region 10
-|Person 11
-|Region 11
-
-|
-|Person 12
-|Region 12
-|Person 13
-|Region 13
-
-|
-|
-|
-|Person 14
-|Region 14
 
 |===
 
