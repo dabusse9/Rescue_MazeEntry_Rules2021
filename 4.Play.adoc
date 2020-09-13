@@ -55,6 +55,7 @@
 . In the event of a lack of progress, the robot must return to the last visited checkpoint (or the start tile if never reached a checkpoint). The robot can be installed in any direction. For the definition of the visited tile (see 4.4.4).
 
 . After a lack of progress, the team must reset the robot by using a switch/button(s) located in a clearly visible location by the referee (see 3.2.10).
+
 image::media/maze/restart_actions.jpg[float="left"]
 
 === Scoring
