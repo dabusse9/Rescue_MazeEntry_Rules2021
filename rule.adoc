@@ -1,4 +1,4 @@
-= RoboCupJunior Rescue Maze Entry - Rules 2021
+= RoboCupJunior Rescue Maze Entry - Rules 2021 (Draft)
 Last update: {docdate}
 :toc: macro
 :toc-title: Contents
@@ -96,7 +96,7 @@ with obstacles and rubble without getting stuck. The robot must search for victi
 rescue kits, and signal the position of the victims so the humans can take over. Time and technical skills
 are essential! Come prepared to be the most successful rescue team.
 
-image::media/maze/Run5.jpg[]
+image::media/maze/neu5.jpg[]
 
 [discrete]
 == Summary
