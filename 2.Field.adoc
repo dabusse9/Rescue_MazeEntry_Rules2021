@@ -44,9 +44,9 @@ image::media/maze/path_example.jpg[]
 
 === Speed Bumps, Debris and Obstacles
 
-. Speed bumps are fixed to the floor and have a maximum height of 1cm.
+. Speed bumps are fixed to the floor and have a maximum height of 1 cm.
 
-. Debris is not fixed to the floor and has a maximum height of 3mm.
+. Debris is not fixed to the floor and has a maximum height of 3 mm.
 
 . Debris may be adjacent to walls.
 
@@ -63,12 +63,12 @@ image::media/maze/path_example.jpg[]
 
 === Victims
 
-. Victims are represented by a red cross on a white tile (30 x 30 cm). The cross is centered on the tile and consists of five squares (6 x 6 cm). The color of the cross is traffic red (RAL color
+. Victims are represented by a red cross on a white tile (30 x 30 cm). The cross is centered on the tile and consists of five squares (6 x 6 cm). The colour of the cross is traffic red (RAL colour
 no. 3020).
 +
 image::media/maze/victim_maze_entry.jpeg[]
 
-. The tile with the victim is always located next to a wall.
+. The tile with a victim is always located next to a wall.
 
 . There will be a minimum number of five (5) victims in a field.
 
