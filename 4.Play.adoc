@@ -46,15 +46,15 @@
 
 === Lack of Progress
 
-. A Lack of Progress occurs when:
-.. The team captain declares a Lack of Progress.
-.. A robot visited the black tile. See definition of visited tile on rule 4.4.4.
-.. A robot damages the field.
-.. A team member touches the field or their robot without permission from a referee.
+. A lack of progress occurs when:
+.. the team captain declares a lack of progress.
+.. a robot visited the black tile. See definition of visited tile on rule 4.4.4.
+.. a robot damages the field.
+.. a team member touches the field or their robot without permission from a referee.
 
-. In the event of a Lack of Progress, the robot must return to the last visited checkpoint (or the start tile if never reached a checkpoint). The robot can be installed in any direction. For the definition of the visited tile (see 4.4.4).
+. In the event of a lack of progress, the robot must return to the last visited checkpoint (or the start tile if never reached a checkpoint). The robot can be installed in any direction. For the definition of the visited tile (see 4.4.4).
 
-. After a Lack of Progress, the team must reset the robot by using a switch/button(s) located in a clearly visible location by the referee (see 3.2.10).
+. After a lack of progress, the team must reset the robot by using a switch/button(s) located in a clearly visible location by the referee (see 3.2.10).
 
 image::media/maze/restart_actions.jpg[float="left"]
 
@@ -62,9 +62,9 @@ image::media/maze/restart_actions.jpg[float="left"]
 
 . A robot can carry out one or both of the following actions to successfully identify a victim:
 
-.. Stop for 5 seconds and blink with a visual indicator on and off for 5 seconds. The robot must stand on the victim tile while blinking.   
+.. Stop for 5 seconds and blink an indicator which is visible to the referee for the full 5 seconds whilst being stationary. The visited tile must be equal to the victim tile while blinking. See definition of visited tile on rule 4.4.4.
 
-.. Stop for 5 seconds and deploy a rescue kit (see 4.6.3). The robot must stand on the victim tile while deploying the kit.
+.. Stop for 5 seconds and deploy a rescue kit (see 4.6.3). The visited tile must be equal to the victim tile while deploying the kit. See definition of visited tile on rule 4.4.4.
 
 . 10 points are rewarded for each successful victim identification in the field:
 
@@ -84,7 +84,7 @@ image::media/maze/restart_actions.jpg[float="left"]
 
 . Successful Checkpoint Negotiation.
 .. A robot is awarded 10 points for each visited checkpoint. Refer to 4.4.4 for definition of visited tile.
-.. A robot is awarded 10 points for each visited checkpoint reached in the first attempt navigating there from the last checkpoint before it.
+.. Reaching a checkpoint in the first attempt is rewarded with 10 bonus points.
 .. After three (3) Lack of Progress the robot is allowed to be placed on the next checkpoint. The robot is not awarded  points for checkpoints reached that way.
 
 . Successful Exit Bonus. A robot is awarded 10 points for each victim successfully identified (see 4.5.1).
@@ -99,6 +99,6 @@ The “exit bonus” condition is satisfied when the robot returns to the starti
 . A team may elect to stop the round early at any time. In this case, the team captain must indicate to the referee the team's desire to terminate the run. The team will be awarded all points earned up to the call for the end of the round.
 
 . The round ends when:
-.. The time expires.
-.. The team captain calls end of round.
-.. The robot returns to the start tile and gets the exit bonus.
+.. the time expires.
+.. the team captain calls end of round.
+.. the robot returns to the start tile and gets the exit bonus.
