@@ -1,54 +1,74 @@
 == Play
 
-=== Pre-round Practice
+=== Pre-game Practice
 
 . When possible, teams will have access to practice fields for calibration and testing throughout the competition.
 
-. Whenever there are dedicated independent fields for competition and practice, it is at the organizers’ discretion if testing is allowed on the competition fields.
+. Whenever there are dedicated independent fields for competition and practice, it is at the organizers' discretion if testing is allowed on the competition fields.
 
 === Humans
 
-. Teams should designate one of their members as “captain” and another one as “co-captain”. Only these two team members will be allowed access to the competition fields, unless otherwise directed by a referee. Only the captain will be allowed to interact with the robot during a scoring run.
+. Teams should designate one of their members as "captain" and another one as "co-captain". Only these two team members will be allowed access to the competition fields, unless otherwise directed by a referee. Only the captain will be allowed to interact with the robot during a scoring run.
 
 . The captain can move the robot only when they are told to do so by a referee.
 
-. Other team members (and any spectators) within the vicinity of the competition field have to stand at least 150 cm away from the field while a robot is active, unless otherwise directed by a referee.
+. Other team members (and any spectators) within the vicinity of the competition field have to stand at least 150 cm away from the field at all times, unless otherwise directed by a referee.
 
 . No one is allowed to touch the fields intentionally during a scoring run.
 
-=== Start of Play
+. Any and all pre-mapping activities will result in immediate disqualification of the robot for the
+round. Pre-mapping is the act of humans providing the robot with information about the field (e.g.:
+location of walls, location of silver and black tiles, location and type of victims, etc.) prior to the game.
 
-. A run begins at the scheduled starting time whether or not the team is present or ready. Start times will be posted around the venue.
+=== Start of Game
 
-. Once the run has begun, the robot is not permitted to leave the competition area for any reason. Each run lasts a maximum of 8 minutes.
+. Each team has a maximum of 8 minutes for a game. The game includes the time for calibration and the scoring run.
 
-. Calibration is defined as the taking of sensor readings and modifying a robot’s program to accommodate such sensor readings. Teams may calibrate their robot in as many locations as desired on the field, but the clock will continue to run. Robots are not permitted to move on their own while calibrating.
+. Calibration is defined as the taking of sensor readings and modifying a robot’s program to
+accommodate such sensor readings. Calibration does not count as pre-mapping.
 
-. Calibration involving pre-mapping the field and/or victims’ location is prohibited. Pre-mapping activities will result in immediate robot disqualification for the round.
+. The scoring run is defined as the time when the robot is moving autonomously to navigate the field,
+and the referee will record the scores.
 
-. Before a scoring run begins, the referee will roll a standard 6-sided dice to determine the location of the black and silver tiles. The position of the black tiles will not be revealed to the team until they are ready to start a scoring run (see 4.3.7). Referees will ensure the combination of black tile placements in a field layout is 'solvable' before a robot begins a scoring run.
+. A game begins at the scheduled starting time whether or not the team is present or ready. Start times
+will be posted around the venue.
+
+. Once the game has begun, the robot is not permitted to leave the competition area.
+
+. Teams may calibrate their robot in as many locations as desired on the field, but the clock will
+continue to run. Robots are not permitted to move on their own while calibrating.
+
+. Before a scoring run begins, the referee will roll a standard 6-sided dice or with another method of
+randomization set by the organizers to determine the location of the black and silver tiles. The
+position of the black and silver tiles will not be revealed to the team until they are ready to start a
+scoring run (see 4.3.11). Referees will ensure the combination of black tile placements in a field
+layout is 'solvable' before a robot begins a scoring run.
 
 . Before a scoring run begins the referee can change any walls of the field, (see 2.3.6).
 
-. Once the robot is started, a referee will place the black and silver tiles.
+. Once a team is ready to start a scoring run, they must notify the referee. To begin a scoring run, the
+robot is placed on the start tile of the course as indicated by the referee. Once a scoring run has
+begun, no more calibration is permitted, including changing of code/code selection.
 
-. Once a scoring run has begun, no additional calibration is permitted (this includes changing of code/code selection).
+. Teams may choose not to calibrate the robot and instead immediately start the scoring run.
 
-=== Game Play
+. Once the robot starts moving as the scoring run begins, a referee will place the black and silver tiles.
+
+=== Scoring Run
 
 . Modifying the robot during a scoring run is prohibited, which includes remounting parts that have fallen off.
 
-. Any parts that the robot loses intentionally or unintentionally will be left in the field until the run is over. Team members and referees are not allowed to move or remove parts from the field during a scoring run.
+. Any parts that the robot loses intentionally or unintentionally will be left in the field until the game is over. Team members and referees are not allowed to move or remove parts from the field during a scoring run.
 
 . Teams are not allowed to give their robot any advance information about the field. A robot is supposed to recognize the field elements by itself.
 
-. A “visited tile” means that more than half of the robot is inside the tile when looking from above.
+. A "visited tile" means that more than half of the robot is inside the tile when looking from above.
 
 === Lack of Progress
 
 . A lack of progress occurs when:
 .. the team captain declares a lack of progress.
-.. a robot visited the black tile. See definition of visited tile on rule 4.4.4.
+.. a robot visited the black tile. See definition of visited tile on 4.4.4.
 .. a robot damages the field.
 .. a team member touches the field or their robot without permission from a referee.
 
@@ -87,18 +107,18 @@ image::media/maze/restart_actions.jpg[float="left"]
 .. Reaching a checkpoint in the first attempt is rewarded with 10 bonus points.
 .. After three (3) Lack of Progress the robot is allowed to be placed on the next checkpoint. The robot is not awarded  points for checkpoints reached that way.
 
-. Successful Exit Bonus. A robot is awarded 10 points for each victim successfully identified (see 4.5.1).
-The “exit bonus” condition is satisfied when the robot returns to the starting tile, stays there for at least 10 seconds to complete the scoring run.
+. Successful Exit Bonus. A robot is awarded 10 points for each victim successfully identified (see 4.6.1).
+The "exit bonus" condition is satisfied when the robot returns to the starting tile, stays there for at least 10 seconds to complete the scoring run.
 
 . Ties at the end. Ties in scoring will be resolved based on the time each robot took to complete the run.
 
 . No duplicate rewards. For example, if a robot successfully crosses a tile with speed bumps multiple times, only one successful speed bump crossing will be rewarded per tile. The same applies to all other scoring rules.
 
-=== End of Play
+=== End of Game
 
-. A team may elect to stop the round early at any time. In this case, the team captain must indicate to the referee the team's desire to terminate the run. The team will be awarded all points earned up to the call for the end of the round.
+. A team may elect to stop the game early at any time. In this case, the team captain must indicate to the referee the team's desire to terminate the game. The team will be awarded all points earned up to the call for the end of the game. The referee will stop the time at the end of game which will be recorded as the game time.
 
-. The round ends when:
-.. the time expires.
-.. the team captain calls end of round.
-.. the robot returns to the start tile and gets the exit bonus.
+. The game ends when:
+.. the 8 minutes of allowed game time expires.
+.. the team captain calls end of game.
+.. the robot returns to the start tile and is awarded the exit bonus.

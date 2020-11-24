@@ -16,7 +16,7 @@
 ** simplicity
 ** functionality
 
-. Your “work" can include (but is not limited to) one of the following aspects:
+. Your "work" can include (but is not limited to) one of the following aspects:
 ** creation of your own sensor instead of a pre-built sensor
 ** creation of a "sensor module" which is comprised of various electronics resulting in a self-contained module to provide a certain functionality
 ** creation of a mechanical invention which is functional, but out of the ordinary

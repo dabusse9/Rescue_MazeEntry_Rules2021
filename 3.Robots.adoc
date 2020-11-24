@@ -2,7 +2,7 @@
 
 === Control
 
-. Robots must be controlled autonomously. The use of a remote control, manual control, or passing information (by sensors, cables, wirelessly, etc.) to the robot is not allowed.
+. Robots must be controlled autonomously. The use of a remote control, manual control, or passing information (by external sensors, cables, wirelessly, etc.) to the robot is not allowed.
 
 . Robots must be started manually by the team captain.
 
@@ -27,7 +27,7 @@ disabled. Non-conforming robots may be immediately disqualified from the tournam
 
 . Robots may incur damage by falling off the field, making contact with another robot, or making contact with field elements.  The organizing committee cannot anticipate all potential situations where damage to the robot may occur. Teams should ensure that all active elements on a robot are properly protected with resistant materials. For example, electrical circuits must be protected from all human contact and direct contact with other robots and field elements.
 
-. When batteries are transported or moved, it is strongly recommended that safety bags be used. Reasonable efforts should be made to ensure that robots avoid short circuits and chemical or air leaks.
+. When batteries are transported, moved or charged, it is strongly recommended that safety bags be used. Reasonable efforts should be made to ensure that robots avoid short circuits and chemical or air leaks.
 
 . Robots must be equipped with a handle which is to be used to pick them up during the scoring run.
 
@@ -39,11 +39,11 @@ disabled. Non-conforming robots may be immediately disqualified from the tournam
 
 . Each team must comply with the https://junior.robocup.org/robocupjunior-general-rules/[RoboCupJunior General Rules] regarding the number of members and each member’s age.
 
-. A student can be registered on only one team.
+. A student can be registered on only one team across all RoboCupJunior leagues/sub-leagues.
+
+. A team is only allowed to participate in one league/sub-league in across all RoboCupJunior leagues/sub-leagues.
 
 . Each team member will need to explain their work and should have a specific technical role.
-
-. A team is only allowed to participate in one league: Rescue Line, Rescue Line Entry, Rescue Maze, Rescue Maze Entry, Rescue Simulation.
 
 . Mentors/parents are not allowed to be with the students during the competition. The students will have to self-govern themselves (without mentor's supervision or assistance) during the long stretch of hours at the competition.
 

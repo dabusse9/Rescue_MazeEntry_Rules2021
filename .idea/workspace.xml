@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f79f9099-be52-4bde-9bf3-3a2da3ee0ed8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/2.Field.adoc" afterPath="$PROJECT_DIR$/2.Field.adoc" />
+      <change beforePath="$PROJECT_DIR$/3.Robots.adoc" afterPath="$PROJECT_DIR$/3.Robots.adoc" />
       <change beforePath="$PROJECT_DIR$/4.Play.adoc" afterPath="$PROJECT_DIR$/4.Play.adoc" />
-      <change beforePath="$PROJECT_DIR$/4.Play.pdf" afterPath="$PROJECT_DIR$/4.Play.pdf" />
+      <change beforePath="$PROJECT_DIR$/5.OpenTechnicalEvaluation.adoc" afterPath="$PROJECT_DIR$/5.OpenTechnicalEvaluation.adoc" />
       <change beforePath="$PROJECT_DIR$/rule.html" afterPath="$PROJECT_DIR$/rule.html" />
       <change beforePath="$PROJECT_DIR$/rule.pdf" afterPath="$PROJECT_DIR$/rule.pdf" />
     </list>
@@ -22,8 +24,8 @@
         <entry file="file://$PROJECT_DIR$/rule.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="1134">
-                <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+              <first_editor relative-caret-position="42">
+                <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -48,8 +50,8 @@
         <entry file="file://$PROJECT_DIR$/2.Field.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="1218">
-                <caret line="29" column="174" lean-forward="false" selection-start-line="29" selection-start-column="174" selection-end-line="29" selection-end-column="174" />
+              <first_editor relative-caret-position="4074">
+                <caret line="97" column="47" lean-forward="false" selection-start-line="97" selection-start-column="47" selection-end-line="97" selection-end-column="47" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -61,8 +63,8 @@
         <entry file="file://$PROJECT_DIR$/3.Robots.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="3360">
-                <caret line="80" column="58" lean-forward="false" selection-start-line="80" selection-start-column="58" selection-end-line="80" selection-end-column="83" />
+              <first_editor relative-caret-position="798">
+                <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -74,8 +76,8 @@
         <entry file="file://$PROJECT_DIR$/4.Play.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="679">
-                <caret line="56" column="19" lean-forward="false" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+              <first_editor relative-caret-position="427">
+                <caret line="109" column="102" lean-forward="false" selection-start-line="109" selection-start-column="102" selection-end-line="109" selection-end-column="102" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -87,8 +89,8 @@
         <entry file="file://$PROJECT_DIR$/5.OpenTechnicalEvaluation.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1302">
-                <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <first_editor relative-caret-position="756">
+                <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -122,12 +124,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3.Robots.adoc" />
         <option value="$PROJECT_DIR$/1.CodeOfConduct.adoc" />
-        <option value="$PROJECT_DIR$/5.OpenTechnicalEvaluation.adoc" />
         <option value="$PROJECT_DIR$/6.ConflictResolution.adoc" />
-        <option value="$PROJECT_DIR$/2.Field.adoc" />
         <option value="$PROJECT_DIR$/rule.adoc" />
+        <option value="$PROJECT_DIR$/2.Field.adoc" />
+        <option value="$PROJECT_DIR$/5.OpenTechnicalEvaluation.adoc" />
+        <option value="$PROJECT_DIR$/3.Robots.adoc" />
         <option value="$PROJECT_DIR$/4.Play.adoc" />
       </list>
     </option>
@@ -139,10 +141,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-13" />
-    <option name="y" value="-13" />
-    <option name="width" value="1390" />
-    <option name="height" value="883" />
+    <option name="x" value="-92" />
+    <option name="y" value="215" />
+    <option name="width" value="1496" />
+    <option name="height" value="1530" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -159,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,10 +173,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -322,12 +324,14 @@
       <workItem from="1600029742520" duration="27000" />
       <workItem from="1600037232629" duration="91000" />
       <workItem from="1605181970676" duration="2112000" />
-      <workItem from="1605264812130" duration="3563000" />
+      <workItem from="1605264812130" duration="3810000" />
+      <workItem from="1606179120486" duration="938000" />
+      <workItem from="1606181689709" duration="2372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35836000" />
+    <option name="totallyTimeSpent" value="39393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
@@ -339,8 +343,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -350,8 +354,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -829,28 +833,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rules_maze.adoc" />
-    <entry file="file://$PROJECT_DIR$/1.CodeOfConduct.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1596">
-            <caret line="38" column="82" lean-forward="false" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="82" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.OpenTechnicalEvaluation.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1302">
-            <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6.ConflictResolution.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
@@ -862,11 +844,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1.CodeOfConduct.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1596">
+            <caret line="38" column="82" lean-forward="false" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="82" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2.Field.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="1218">
-            <caret line="29" column="174" lean-forward="false" selection-start-line="29" selection-start-column="174" selection-end-line="29" selection-end-column="174" />
+          <first_editor relative-caret-position="4074">
+            <caret line="97" column="47" lean-forward="false" selection-start-line="97" selection-start-column="47" selection-end-line="97" selection-end-column="47" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.OpenTechnicalEvaluation.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="756">
+            <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
@@ -876,8 +880,8 @@
     <entry file="file://$PROJECT_DIR$/3.Robots.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="3360">
-            <caret line="80" column="58" lean-forward="false" selection-start-line="80" selection-start-column="58" selection-end-line="80" selection-end-column="83" />
+          <first_editor relative-caret-position="798">
+            <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -887,8 +891,8 @@
     <entry file="file://$PROJECT_DIR$/4.Play.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="679">
-            <caret line="56" column="19" lean-forward="false" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+          <first_editor relative-caret-position="427">
+            <caret line="109" column="102" lean-forward="false" selection-start-line="109" selection-start-column="102" selection-end-line="109" selection-end-column="102" />
             <folding />
           </first_editor>
           <second_editor />
@@ -898,8 +902,8 @@
     <entry file="file://$PROJECT_DIR$/rule.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="1134">
-            <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+          <first_editor relative-caret-position="42">
+            <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />

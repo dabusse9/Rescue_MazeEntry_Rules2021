@@ -644,13 +644,13 @@ If the robot can find its way back to the beginning after exploring the maze it 
 </li>
 <li><a href="#_play">4. Play</a>
 <ul class="sectlevel2">
-<li><a href="#_pre_round_practice">4.1. Pre-round Practice</a></li>
+<li><a href="#_pre_game_practice">4.1. Pre-game Practice</a></li>
 <li><a href="#_humans">4.2. Humans</a></li>
-<li><a href="#_start_of_play">4.3. Start of Play</a></li>
-<li><a href="#_game_play">4.4. Game Play</a></li>
+<li><a href="#_start_of_game">4.3. Start of Game</a></li>
+<li><a href="#_scoring_run">4.4. Scoring Run</a></li>
 <li><a href="#_lack_of_progress">4.5. Lack of Progress</a></li>
 <li><a href="#_scoring">4.6. Scoring</a></li>
-<li><a href="#_end_of_play">4.7. End of Play</a></li>
+<li><a href="#_end_of_game">4.7. End of Game</a></li>
 </ul>
 </li>
 <li><a href="#_open_technical_evaluation">5. Open Technical Evaluation</a>
@@ -819,7 +819,7 @@ and walls within the field.</p>
 <p>All tiles are defined as a 30 cm x 30 cm space.</p>
 </li>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-10">
-<p>All walls used create the maze are at least 15 cm high from any floor, 30 cm in length, and are mounted on the edges of the tiles.</p>
+<p>All walls used to create the maze are at least 15 cm high from any floor, 30 cm in length, and are mounted on the edges of the tiles.</p>
 </li>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-12">
 <p>Tiles will be used as ramps. They will have an incline with a maximum of 25 degrees from the horizontal and are always straight.</p>
@@ -910,109 +910,106 @@ and walls within the field.</p>
 <p>Debris is not fixed to the floor and has a maximum height of 3 mm.</p>
 </li>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-51">
-<p>Debris may be adjacent to walls.</p>
-</li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-53">
 <p>Obstacles:</p>
-<div class="olist loweralpha has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-55">
+<div class="olist loweralpha has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-53">
 <ol class="loweralpha" type="a">
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-55">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-53">
 <p>have minimum height of 15 cm.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-56">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-54">
 <p>may consist of any large, heavy items.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-57">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-55">
 <p>may be fixed to the floor.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-58">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-56">
 <p>may be any shape including rectangular, pyramidal, spherical or cylindrical.</p>
 </li>
 </ol>
 </div>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-60">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-58">
 <p>An obstacle may be placed in any location where at least 20 cm is left between the obstacle and any wall.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-62">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-60">
 <p>Obstacles that are moved or knocked over must remain where they are moved or fall and will not be reset during the scoring run.</p>
 </li>
 </ol>
 </div>
 </div>
-<div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-64">
+<div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-62">
 <h3 id="_victims"><a class="anchor" href="#_victims"></a><a class="link" href="#_victims">2.5. Victims</a></h3>
-<div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-66">
+<div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-64">
 <ol class="arabic">
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-66">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-64">
 <p>Victims are represented by a red cross on a white tile (30 x 30 cm). The cross is centered on the tile and consists of five squares (6 x 6 cm). The colour of the cross is traffic red (RAL colour
 no. 3020).</p>
-<div class="imageblock has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-69">
+<div class="imageblock has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-67">
 <div class="content">
 <img src="media/maze/victim_maze_entry.jpeg" alt="victim maze entry">
 </div>
 </div>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-71">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-69">
 <p>The tile with a victim is always located next to a wall.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-73">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-71">
 <p>There will be a minimum number of five (5) victims in a field.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-75">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-73">
 <p>Victims will never be located on black tiles or on tiles with obstacles.</p>
 </li>
 </ol>
 </div>
 </div>
-<div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-78">
+<div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-76">
 <h3 id="_rescue_kits"><a class="anchor" href="#_rescue_kits"></a><a class="link" href="#_rescue_kits">2.6. Rescue Kits</a></h3>
-<div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-80">
+<div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-78">
 <ol class="arabic">
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-80">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-78">
 <p>A rescue kit represents a basic health package distributed to a victim caught in a natural disaster. It symbolizes tools, medical supplies or devices used in the rescue process, such as GPS transponders or even something as simple as a light source.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-82">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-80">
 <p>Because we need to ensure that a rescue kit reaches the victim, it has to stay near the victim after the deployment. For example, it cannot roll away from or bounce off to move away from the victim.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-84">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-82">
 <p>Each rescue kit must have a minimum volume of 1 cm³.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-86">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-84">
 <p>A robot can only carry a maximum number of 12 rescue kits.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-88">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-86">
 <p>Each team is responsible for their own rescue kit system, including bringing the rescue kits to the competition. The team captain is responsible for loading the rescue kits onto their robot and collecting it from the field with the referee’s authorization after the end of the run.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-90">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-88">
 <p>Deployment of the rescue kit must be very clear to the referee.</p>
 </li>
 </ol>
 </div>
 </div>
-<div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-92">
+<div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-90">
 <h3 id="_environmental_conditions"><a class="anchor" href="#_environmental_conditions"></a><a class="link" href="#_environmental_conditions">2.7. Environmental Conditions</a></h3>
-<div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-94">
+<div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-92">
 <ol class="arabic">
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-94">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-92">
 <p>The environmental conditions at a tournament may be different from the conditions at home practice fields. Teams must come prepared to adjust their robots to the conditions at the venue.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-96">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-94">
 <p>Lighting and magnetic conditions may vary in the rescue field.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-98">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-96">
 <p>The field may be affected by magnetic fields (e.g. generated by under floor wiring and metallic objects). Teams should prepare their robots to handle such interference.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-100">
-<p>The field may be affected by unexpected lightning interference (e.g. such as camera flash from spectators). Teams should prepare their robots to handle such interference.</p>
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-98">
+<p>The field may be affected by unexpected lighting interference (e.g. such as camera flash from spectators). Teams should prepare their robots to handle such interference.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-102">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-100">
 <p>The Organizing Committee (OC) will try their best to fasten the walls onto the field floor so that the impact from contact should not affect the robot.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-104">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-102">
 <p>All measurements in the rules have a tolerance of ±10%.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-106">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/2.Field.adoc-104">
 <p>Objects to be detected by the robot will be distinguishable from the environment by their colour or shape.</p>
 </li>
 </ol>
@@ -1028,7 +1025,7 @@ no. 3020).</p>
 <div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/3.Robots.adoc-5">
 <ol class="arabic">
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/3.Robots.adoc-5">
-<p>Robots must be controlled autonomously. The use of a remote control, manual control, or passing information (by sensors, cables, wirelessly, etc.) to the robot is not allowed.</p>
+<p>Robots must be controlled autonomously. The use of a remote control, manual control, or passing information (by external sensors, cables, wirelessly, etc.) to the robot is not allowed.</p>
 </li>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/3.Robots.adoc-7">
 <p>Robots must be started manually by the team captain.</p>
@@ -1069,7 +1066,7 @@ disabled. Non-conforming robots may be immediately disqualified from the tournam
 <p>Robots may incur damage by falling off the field, making contact with another robot, or making contact with field elements.  The organizing committee cannot anticipate all potential situations where damage to the robot may occur. Teams should ensure that all active elements on a robot are properly protected with resistant materials. For example, electrical circuits must be protected from all human contact and direct contact with other robots and field elements.</p>
 </li>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/3.Robots.adoc-30">
-<p>When batteries are transported or moved, it is strongly recommended that safety bags be used. Reasonable efforts should be made to ensure that robots avoid short circuits and chemical or air leaks.</p>
+<p>When batteries are transported, moved or charged, it is strongly recommended that safety bags be used. Reasonable efforts should be made to ensure that robots avoid short circuits and chemical or air leaks.</p>
 </li>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/3.Robots.adoc-32">
 <p>Robots must be equipped with a handle which is to be used to pick them up during the scoring run.</p>
@@ -1091,13 +1088,13 @@ disabled. Non-conforming robots may be immediately disqualified from the tournam
 <p>Each team must comply with the <a href="https://junior.robocup.org/robocupjunior-general-rules/">RoboCupJunior General Rules</a> regarding the number of members and each member’s age.</p>
 </li>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/3.Robots.adoc-42">
-<p>A student can be registered on only one team.</p>
+<p>A student can be registered on only one team across all RoboCupJunior leagues/sub-leagues.</p>
 </li>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/3.Robots.adoc-44">
 <p>Each team member will need to explain their work and should have a specific technical role.</p>
 </li>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/3.Robots.adoc-46">
-<p>A team is only allowed to participate in one league: Rescue Line, Rescue Line Entry, Rescue Maze, Rescue Maze Entry, Rescue Simulation.</p>
+<p>A team is only allowed to participate in one league/sub-league in across all RoboCupJunior leagues/sub-leagues.</p>
 </li>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/3.Robots.adoc-48">
 <p>Mentors/parents are not allowed to be with the students during the competition. The students will have to self-govern themselves (without mentor&#8217;s supervision or assistance) during the long stretch of hours at the competition.</p>
@@ -1179,7 +1176,7 @@ However, it is highly recommended that teams publicly share their engineering jo
 <h2 id="_play"><a class="anchor" href="#_play"></a><a class="link" href="#_play">4. Play</a></h2>
 <div class="sectionbody">
 <div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-3">
-<h3 id="_pre_round_practice"><a class="anchor" href="#_pre_round_practice"></a><a class="link" href="#_pre_round_practice">4.1. Pre-round Practice</a></h3>
+<h3 id="_pre_game_practice"><a class="anchor" href="#_pre_game_practice"></a><a class="link" href="#_pre_game_practice">4.1. Pre-game Practice</a></h3>
 <div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-5">
 <ol class="arabic">
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-5">
@@ -1202,190 +1199,214 @@ However, it is highly recommended that teams publicly share their engineering jo
 <p>The captain can move the robot only when they are told to do so by a referee.</p>
 </li>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-15">
-<p>Other team members (and any spectators) within the vicinity of the competition field have to stand at least 150 cm away from the field while a robot is active, unless otherwise directed by a referee.</p>
+<p>Other team members (and any spectators) within the vicinity of the competition field have to stand at least 150 cm away from the field at all times, unless otherwise directed by a referee.</p>
 </li>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-17">
 <p>No one is allowed to touch the fields intentionally during a scoring run.</p>
 </li>
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-19">
+<p>Any and all pre-mapping activities will result in immediate disqualification of the robot for the
+round. Pre-mapping is the act of humans providing the robot with information about the field (e.g.:
+location of walls, location of silver and black tiles, location and type of victims, etc.) prior to the game.</p>
+</li>
 </ol>
 </div>
 </div>
-<div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-19">
-<h3 id="_start_of_play"><a class="anchor" href="#_start_of_play"></a><a class="link" href="#_start_of_play">4.3. Start of Play</a></h3>
-<div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-21">
+<div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-23">
+<h3 id="_start_of_game"><a class="anchor" href="#_start_of_game"></a><a class="link" href="#_start_of_game">4.3. Start of Game</a></h3>
+<div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-25">
 <ol class="arabic">
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-21">
-<p>A run begins at the scheduled starting time whether or not the team is present or ready. Start times will be posted around the venue.</p>
-</li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-23">
-<p>Once the run has begun, the robot is not permitted to leave the competition area for any reason. Each run lasts a maximum of 8 minutes.</p>
-</li>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-25">
-<p>Calibration is defined as the taking of sensor readings and modifying a robot’s program to accommodate such sensor readings. Teams may calibrate their robot in as many locations as desired on the field, but the clock will continue to run. Robots are not permitted to move on their own while calibrating.</p>
+<p>Each team has a maximum of 8 minutes for a game. The game includes the time for calibration and the scoring run.</p>
 </li>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-27">
-<p>Calibration involving pre-mapping the field and/or victims’ location is prohibited. Pre-mapping activities will result in immediate robot disqualification for the round.</p>
+<p>Calibration is defined as the taking of sensor readings and modifying a robot’s program to
+accommodate such sensor readings. Calibration does not count as pre-mapping.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-29">
-<p>Before a scoring run begins, the referee will roll a standard 6-sided dice to determine the location of the black and silver tiles. The position of the black tiles will not be revealed to the team until they are ready to start a scoring run (see 4.3.7). Referees will ensure the combination of black tile placements in a field layout is 'solvable' before a robot begins a scoring run.</p>
-</li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-31">
-<p>Before a scoring run begins the referee can change any walls of the field, (see 2.3.6).</p>
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-30">
+<p>The scoring run is defined as the time when the robot is moving autonomously to navigate the field,
+and the referee will record the scores.</p>
 </li>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-33">
-<p>Once the robot is started, a referee will place the black and silver tiles.</p>
+<p>A game begins at the scheduled starting time whether or not the team is present or ready. Start times
+will be posted around the venue.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-35">
-<p>Once a scoring run has begun, no additional calibration is permitted (this includes changing of code/code selection).</p>
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-36">
+<p>Once the game has begun, the robot is not permitted to leave the competition area.</p>
+</li>
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-38">
+<p>Teams may calibrate their robot in as many locations as desired on the field, but the clock will
+continue to run. Robots are not permitted to move on their own while calibrating.</p>
+</li>
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-41">
+<p>Before a scoring run begins, the referee will roll a standard 6-sided dice or with another method of
+randomization set by the organizers to determine the location of the black and silver tiles. The
+position of the black and silver tiles will not be revealed to the team until they are ready to start a
+scoring run (see 4.3.11). Referees will ensure the combination of black tile placements in a field
+layout is 'solvable' before a robot begins a scoring run.</p>
+</li>
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-47">
+<p>Before a scoring run begins the referee can change any walls of the field, (see 2.3.6).</p>
+</li>
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-49">
+<p>Once a team is ready to start a scoring run, they must notify the referee. To begin a scoring run, the
+robot is placed on the start tile of the course as indicated by the referee. Once a scoring run has
+begun, no more calibration is permitted, including changing of code/code selection.</p>
+</li>
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-53">
+<p>Teams may choose not to calibrate the robot and instead immediately start the scoring run.</p>
+</li>
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-55">
+<p>Once the robot starts moving as the scoring run begins, a referee will place the black and silver tiles.</p>
 </li>
 </ol>
 </div>
 </div>
-<div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-37">
-<h3 id="_game_play"><a class="anchor" href="#_game_play"></a><a class="link" href="#_game_play">4.4. Game Play</a></h3>
-<div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-39">
+<div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-57">
+<h3 id="_scoring_run"><a class="anchor" href="#_scoring_run"></a><a class="link" href="#_scoring_run">4.4. Scoring Run</a></h3>
+<div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-59">
 <ol class="arabic">
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-39">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-59">
 <p>Modifying the robot during a scoring run is prohibited, which includes remounting parts that have fallen off.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-41">
-<p>Any parts that the robot loses intentionally or unintentionally will be left in the field until the run is over. Team members and referees are not allowed to move or remove parts from the field during a scoring run.</p>
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-61">
+<p>Any parts that the robot loses intentionally or unintentionally will be left in the field until the game is over. Team members and referees are not allowed to move or remove parts from the field during a scoring run.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-43">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-63">
 <p>Teams are not allowed to give their robot any advance information about the field. A robot is supposed to recognize the field elements by itself.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-45">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-65">
 <p>A “visited tile” means that more than half of the robot is inside the tile when looking from above.</p>
 </li>
 </ol>
 </div>
 </div>
-<div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-47">
+<div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-67">
 <h3 id="_lack_of_progress"><a class="anchor" href="#_lack_of_progress"></a><a class="link" href="#_lack_of_progress">4.5. Lack of Progress</a></h3>
-<div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-49">
+<div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-69">
 <ol class="arabic">
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-49">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-69">
 <p>A lack of progress occurs when:</p>
-<div class="olist loweralpha has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-50">
+<div class="olist loweralpha has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-70">
 <ol class="loweralpha" type="a">
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-50">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-70">
 <p>the team captain declares a lack of progress.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-51">
-<p>a robot visited the black tile. See definition of visited tile on rule 4.4.4.</p>
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-71">
+<p>a robot visited the black tile. See definition of visited tile on 4.4.4.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-52">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-72">
 <p>a robot damages the field.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-53">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-73">
 <p>a team member touches the field or their robot without permission from a referee.</p>
 </li>
 </ol>
 </div>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-55">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-75">
 <p>In the event of a lack of progress, the robot must return to the last visited checkpoint (or the start tile if never reached a checkpoint). The robot can be installed in any direction. For the definition of the visited tile (see 4.4.4).</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-57">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-77">
 <p>After a lack of progress, the team must reset the robot by using a switch/button(s) located in a clearly visible location by the referee (see 3.2.10).</p>
 </li>
 </ol>
 </div>
-<div class="imageblock left has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-59">
+<div class="imageblock left has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-79">
 <div class="content">
 <img src="media/maze/restart_actions.jpg" alt="restart actions">
 </div>
 </div>
 </div>
-<div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-61">
+<div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-81">
 <h3 id="_scoring"><a class="anchor" href="#_scoring"></a><a class="link" href="#_scoring">4.6. Scoring</a></h3>
-<div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-63">
+<div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-83">
 <ol class="arabic">
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-63">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-83">
 <p>A robot can carry out one or both of the following actions to successfully identify a victim:</p>
-<div class="olist loweralpha has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-65">
+<div class="olist loweralpha has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-85">
 <ol class="loweralpha" type="a">
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-65">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-85">
 <p>Stop for 5 seconds and blink an indicator which is visible to the referee for the full 5 seconds whilst being stationary. The visited tile must be equal to the victim tile while blinking. See definition of visited tile on rule 4.4.4.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-67">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-87">
 <p>Stop for 5 seconds and deploy a rescue kit (see 4.6.3). The visited tile must be equal to the victim tile while deploying the kit. See definition of visited tile on rule 4.4.4.</p>
 </li>
 </ol>
 </div>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-69">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-89">
 <p>10 points are rewarded for each successful victim identification in the field:</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-71">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-91">
 <p>To successfully deploy a rescue kit, a robot must deploy (deployment point) a rescue kit on the victim tile. The deployment point is deemed to be the location where the rescue kit makes initial contact with the floor, it is not the final resting place of the rescue kit.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-73">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-93">
 <p>10 points are awarded per successful rescue kit deployment.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-75">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-95">
 <p>Points will be awarded for victim identification and rescue kit deployment.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-77">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-97">
 <p>Reliability Bonus = the number of ‘successful victim identification’ × 10 + the number of ‘successful rescue kit deployment’ × 10, minus the number of ‘Lack of Progress’ × 10. However, Reliability Bonus score can only be reduced to the minimum of 0 points.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-79">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-99">
 <p>Successful Speed Bump Crossing. For each tile with speed bumps passed, a robot is awarded 5 points.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-81">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-101">
 <p>Successful Up Ramp Negotiation. A robot is awarded 20 points for a successful climb up a ramp. To successfully climb up a ramp, a robot needs to move from the bottom horizontal tile before the ramp to the top horizontal tile after the ramp.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-83">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-103">
 <p>Successful Down Ramp Negotiation. A robot is awarded 10 points for successfully landing at the bottom of a ramp. A robot needs to move from the top horizontal tile of the ramp to the bottom horizontal tile of the ramp. A successful landing means that the robot can leave the tile without assistance.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-85">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-105">
 <p>Successful Checkpoint Negotiation.</p>
-<div class="olist loweralpha has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-86">
+<div class="olist loweralpha has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-106">
 <ol class="loweralpha" type="a">
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-86">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-106">
 <p>A robot is awarded 10 points for each visited checkpoint. Refer to 4.4.4 for definition of visited tile.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-87">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-107">
 <p>Reaching a checkpoint in the first attempt is rewarded with 10 bonus points.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-88">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-108">
 <p>After three (3) Lack of Progress the robot is allowed to be placed on the next checkpoint. The robot is not awarded  points for checkpoints reached that way.</p>
 </li>
 </ol>
 </div>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-90">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-110">
 <p>Successful Exit Bonus. A robot is awarded 10 points for each victim successfully identified (see 4.5.1).
 The “exit bonus” condition is satisfied when the robot returns to the starting tile, stays there for at least 10 seconds to complete the scoring run.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-93">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-113">
 <p>Ties at the end. Ties in scoring will be resolved based on the time each robot took to complete the run.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-95">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-115">
 <p>No duplicate rewards. For example, if a robot successfully crosses a tile with speed bumps multiple times, only one successful speed bump crossing will be rewarded per tile. The same applies to all other scoring rules.</p>
 </li>
 </ol>
 </div>
 </div>
-<div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-97">
-<h3 id="_end_of_play"><a class="anchor" href="#_end_of_play"></a><a class="link" href="#_end_of_play">4.7. End of Play</a></h3>
-<div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-99">
+<div class="sect2 has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-117">
+<h3 id="_end_of_game"><a class="anchor" href="#_end_of_game"></a><a class="link" href="#_end_of_game">4.7. End of Game</a></h3>
+<div class="olist arabic has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-119">
 <ol class="arabic">
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-99">
-<p>A team may elect to stop the round early at any time. In this case, the team captain must indicate to the referee the team&#8217;s desire to terminate the run. The team will be awarded all points earned up to the call for the end of the round.</p>
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-119">
+<p>A team may elect to stop the game early at any time. In this case, the team captain must indicate to the referee the team&#8217;s desire to terminate the game. The team will be awarded all points earned up to the call for the end of the game. The referee will stop the time at the end of game which will be recorded as the game time.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-101">
-<p>The round ends when:</p>
-<div class="olist loweralpha has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-102">
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-121">
+<p>The game ends when:</p>
+<div class="olist loweralpha has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-122">
 <ol class="loweralpha" type="a">
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-102">
-<p>the time expires.</p>
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-122">
+<p>the 8 minutes of allowed game time expires.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-103">
-<p>the team captain calls end of round.</p>
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-123">
+<p>the team captain calls end of game.</p>
 </li>
-<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-104">
-<p>the robot returns to the start tile and gets the exit bonus.</p>
+<li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/4.Play.adoc-124">
+<p>the robot returns to the start tile and is awarded the exit bonus.</p>
 </li>
 </ol>
 </div>
@@ -1438,7 +1459,7 @@ The “exit bonus” condition is satisfied when the robot returns to the starti
 </div>
 </li>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/5.OpenTechnicalEvaluation.adoc-19">
-<p>Your “work" can include (but is not limited to) one of the following aspects:</p>
+<p>Your "work" can include (but is not limited to) one of the following aspects:</p>
 <div class="ulist has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/5.OpenTechnicalEvaluation.adoc-20">
 <ul>
 <li class="has-source-line data-line-C:/Users/danie/Documents/Robocup/Regeln_MazeEntry/Rescue_MazeEntry_Rules2021/5.OpenTechnicalEvaluation.adoc-20">
