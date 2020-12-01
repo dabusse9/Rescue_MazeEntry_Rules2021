@@ -72,7 +72,7 @@ begun, no more calibration is permitted, including changing of code/code selecti
 .. a robot damages the field.
 .. a team member touches the field or their robot without permission from a referee.
 
-. In the event of a lack of progress, the robot must return to the last visited checkpoint (or the start tile if never reached a checkpoint). The robot can be installed in any direction. For the definition of the visited tile (see 4.4.4).
+. In the event of a lack of progress, the robot must return to the last visited checkpoint (or the start tile if the robot has never reached a checkpoint). The robot can be installed in any direction. For the definition of the visited tile (see 4.4.4).
 
 . After a lack of progress, the team must reset the robot by using a switch/button(s) located in a clearly visible location by the referee (see 3.2.10).
 
@@ -110,7 +110,7 @@ image::media/maze/restart_actions.jpg[float="left"]
 . Successful Exit Bonus. A robot is awarded 10 points for each victim successfully identified (see 4.6.1).
 The "exit bonus" condition is satisfied when the robot returns to the starting tile, stays there for at least 10 seconds to complete the scoring run.
 
-. Ties at the end. Ties in scoring will be resolved based on the time each robot took to complete the run.
+. Ties in scoring will be resolved based on the time each robot took to complete the run.
 
 . No duplicate rewards. For example, if a robot successfully crosses a tile with speed bumps multiple times, only one successful speed bump crossing will be rewarded per tile. The same applies to all other scoring rules.
 

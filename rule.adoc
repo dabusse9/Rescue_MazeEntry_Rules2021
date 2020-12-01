@@ -62,10 +62,10 @@ endif::[]
 ^|RoboCupJunior Official Forum
 
 a|
-[link=https://junior.robocup.org/]
+[link=https://www.robocupgermanopen.de]
 image::media/officialsite.jpg[]
 [.text-center]
-https://junior.robocup.org/[https://junior.robocup.org/]
+https://www.robocupgermanopen.de[https://www.robocupgermanopen.de]
 a|
 [link=https://junior.forum.robocup.org/]
 image::media/juniorforum.png[]

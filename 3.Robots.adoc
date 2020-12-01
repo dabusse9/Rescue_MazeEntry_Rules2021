@@ -18,7 +18,7 @@
 
 . Any robot kit or building blocks, either available on the market or built from raw hardware, may be used as long as the design and construction are primarily and substantially the original work of the students (see section 3.5. below).
 
-. Teams are not permitted to use any commercially produced robot kits or sensors components that are specifically designed or marketed to complete any single major task of RoboCupJunior Rescue. Robots that do not comply will face immediate disqualification from the tournament. If there is any doubt, teams should consult the Technical Committee (TC) prior to the competition.
+. Teams are not permitted to use any commercially produced robot kits or sensors components that are specifically designed or marketed to complete any single major task of RoboCupJunior Rescue. Robots that do not comply will face immediate disqualification from the tournament. If there is any doubt, teams should consult the RoboCupJunior Maze Entry Working Group prior to the competition.
 
 . For the safety of participants and spectators, only lasers of class 1 and 2 are allowed. This will be checked during inspection. Teams using lasers must have the datasheet of the laser, and also must  submit them prior to the competition as well as be able to show them during the competition.
 
