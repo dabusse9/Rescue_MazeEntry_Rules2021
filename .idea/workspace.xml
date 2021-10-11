@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f79f9099-be52-4bde-9bf3-3a2da3ee0ed8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/3.Robots.adoc" afterPath="$PROJECT_DIR$/3.Robots.adoc" />
-      <change beforePath="$PROJECT_DIR$/4.Play.adoc" afterPath="$PROJECT_DIR$/4.Play.adoc" />
-      <change beforePath="$PROJECT_DIR$/media/officialsite.jpg" afterPath="$PROJECT_DIR$/media/officialsite.jpg" />
       <change beforePath="$PROJECT_DIR$/rule.adoc" afterPath="$PROJECT_DIR$/rule.adoc" />
       <change beforePath="$PROJECT_DIR$/rule.pdf" afterPath="$PROJECT_DIR$/rule.pdf" />
     </list>
@@ -23,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/rule.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="798">
-                <caret line="64" column="38" lean-forward="false" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
+              <first_editor relative-caret-position="-126">
+                <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -62,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/3.Robots.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="462">
+              <first_editor relative-caret-position="840">
                 <caret line="20" column="360" lean-forward="false" selection-start-line="20" selection-start-column="360" selection-end-line="20" selection-end-column="360" />
                 <folding />
               </first_editor>
@@ -75,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/4.Play.adoc">
           <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="553">
+              <first_editor relative-caret-position="4704">
                 <caret line="112" column="2" lean-forward="false" selection-start-line="112" selection-start-column="2" selection-end-line="112" selection-end-column="2" />
                 <folding />
               </first_editor>
@@ -127,9 +124,9 @@
         <option value="$PROJECT_DIR$/6.ConflictResolution.adoc" />
         <option value="$PROJECT_DIR$/2.Field.adoc" />
         <option value="$PROJECT_DIR$/5.OpenTechnicalEvaluation.adoc" />
-        <option value="$PROJECT_DIR$/rule.adoc" />
         <option value="$PROJECT_DIR$/3.Robots.adoc" />
         <option value="$PROJECT_DIR$/4.Play.adoc" />
+        <option value="$PROJECT_DIR$/rule.adoc" />
       </list>
     </option>
   </component>
@@ -160,6 +157,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -172,9 +172,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,11 +325,12 @@
       <workItem from="1606181689709" duration="2372000" />
       <workItem from="1606246018942" duration="60000" />
       <workItem from="1606842993786" duration="1858000" />
+      <workItem from="1633944494794" duration="238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41311000" />
+    <option name="totallyTimeSpent" value="41549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
@@ -881,7 +879,7 @@
     <entry file="file://$PROJECT_DIR$/3.Robots.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="462">
+          <first_editor relative-caret-position="840">
             <caret line="20" column="360" lean-forward="false" selection-start-line="20" selection-start-column="360" selection-end-line="20" selection-end-column="360" />
             <folding />
           </first_editor>
@@ -892,7 +890,7 @@
     <entry file="file://$PROJECT_DIR$/4.Play.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="553">
+          <first_editor relative-caret-position="4704">
             <caret line="112" column="2" lean-forward="false" selection-start-line="112" selection-start-column="2" selection-end-line="112" selection-end-column="2" />
             <folding />
           </first_editor>
@@ -903,8 +901,8 @@
     <entry file="file://$PROJECT_DIR$/rule.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="798">
-            <caret line="64" column="38" lean-forward="false" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
+          <first_editor relative-caret-position="-126">
+            <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
             <folding />
           </first_editor>
           <second_editor />
