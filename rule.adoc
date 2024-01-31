@@ -1,4 +1,4 @@
-= RoboCupJunior Rescue Maze Entry - Rules 2021
+= RoboCupJunior Rescue Maze Entry - Rules 2022
 Last update: {docdate}
 :toc: macro
 :toc-title: Contents
@@ -66,7 +66,7 @@ WARNING: Corrections and clarifications to the rules may be posted on the Forum 
 
 IMPORTANT: Please read through the https://junior.robocup.org/robocupjunior-general-rules/[RoboCupJunior General Rules] before proceeding on with these
 rules, as they are the premise for all rules. The English rules published by the
-Maze Entry Working Group are the only official rules for  RoboCupJunior Rescue Maze Entry 2021. The translated versions that can be published by each
+Maze Entry Working Group are the only official rules for  RoboCupJunior Rescue Maze Entry 2022. The translated versions that can be published by each
 regional committee are only reference information for non-English speakers to better
 understand the rules. It is the responsibility of the teams to have read and understood
 the official rules.
