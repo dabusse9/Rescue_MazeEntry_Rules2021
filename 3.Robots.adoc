@@ -39,15 +39,19 @@ disabled. Non-conforming robots may be immediately disqualified from the tournam
 
 . Each team must comply with the https://junior.robocup.org/robocupjunior-general-rules/[RoboCupJunior General Rules] regarding the number of members and each member’s age.
 
+. The Rescue Maze Entry League is open to students in the age from 10 to 16 years (age as of 1st of
+July).
+
+. Each team member will need to explain their work and should have a specific technical role.
+
 . A student can be registered on only one team across all RoboCupJunior leagues/sub-leagues.
 
 . A team is only allowed to participate in one league/sub-league in across all RoboCupJunior leagues/sub-leagues.
 
-. Each team member will need to explain their work and should have a specific technical role.
+. A participant may only participate twice in an Entry league competition of a regional RCJ qualification final (e.g. German Open, Portuguese Open, etc.). A participant is allowed to participate in a qualification competition for a regional final without restrictions.
 
 . Mentors/parents are not allowed to be with the students during the competition. The students will have to self-govern themselves (without mentor's supervision or assistance) during the long stretch of hours at the competition.
 
-. A participant may only participate twice in an Entry league competition of a regional RCJ qualification final (e.g. German Open, Portuguese Open, etc.). A participant is allowed to participate in a qualification competition for a regional final without restrictions. 
 
 === Inspection
 
